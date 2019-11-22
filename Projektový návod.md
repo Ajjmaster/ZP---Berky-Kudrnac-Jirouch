@@ -4,3 +4,4 @@ Main file
 Pište sem problémy typově:
 *Berky* Problém s branchem *Main*
 Ahoj braší
+Gh

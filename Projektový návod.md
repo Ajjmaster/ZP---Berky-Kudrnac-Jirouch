@@ -5,3 +5,4 @@ Pište sem problémy typově:
 *Berky* Problém s branchem *Main* //opraveno
 Ahoj braší
 Gh
+Ahoj potřebujete udělat ten skript na jména a příjmení (email?)

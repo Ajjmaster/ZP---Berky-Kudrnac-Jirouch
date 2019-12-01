@@ -1,0 +1,1 @@
+INSETR INTO role(nazev) VALUES (user),(admin);

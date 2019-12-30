@@ -1,1 +1,1 @@
-INSERT INTO role(nazev) VALUES (user),(admin);
+INSERT INTO role(nazev) VALUES ('user'),('admin');
